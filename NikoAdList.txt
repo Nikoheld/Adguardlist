@@ -1,1 +1,27 @@
+!
+! Title: Blocklist for Ads by Nikoheld
+! Description: List for blocking Ads
+! Version: 1.0.0
+! Homepage: https://github.com/Nikoheld/Adguardlist
+! Last modified: 2024-09-27
+!
+! Compiled by @adguard/hostlist-compiler v1.0.26
+!
+!
+! Source name: Blocklist for Ads by Nikoheld
+! Source: https://github.com/Nikoheld/Adguardlist/edit/main/NikoAdList.txt
+!
+! Title: Scam Blocklist by DurableNapkin
+! Source: https://github.com/Nikoheld/Adguardlist/edit/main/NikoAdList.txt
+! Home: https://github.com/Nikoheld/Adguardlist
+! Contribute: https://github.com/nikoheld/
+! License: MIT (https://mit-license.org/)
 
+||
+||
+||
+||
+||
+||
+||
+||
