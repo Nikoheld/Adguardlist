@@ -9,10 +9,10 @@
 !
 !
 ! Source name: Blocklist for Ads by Nikoheld
-! Source: https://github.com/Nikoheld/Adguardlist/edit/main/NikoAdList.txt
+! Source: https://raw.githubusercontent.com/Nikoheld/Adguardlist/refs/heads/main/NikoAdList.txt
 !
 ! Title: Scam Blocklist by DurableNapkin
-! Source: https://github.com/Nikoheld/Adguardlist/edit/main/NikoAdList.txt
+! Source: https://raw.githubusercontent.com/Nikoheld/Adguardlist/refs/heads/main/NikoAdList.txt
 ! Home: https://github.com/Nikoheld/Adguardlist
 ! Contribute: https://github.com/nikoheld/
 ! License: MIT (https://mit-license.org/)
