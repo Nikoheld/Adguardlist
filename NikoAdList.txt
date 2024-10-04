@@ -17,7 +17,7 @@
 ! Contribute: https://github.com/nikoheld/
 ! License: MIT (https://mit-license.org/)
 
-||birchhof.ch
+||
 ||
 ||
 ||
